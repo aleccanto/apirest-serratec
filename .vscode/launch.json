@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ViroumemeapiApplication<viroumemeapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.serratec.viroumemeapi.ViroumemeapiApplication",
+            "projectName": "viroumemeapi",
+            "args": ""
+        }
+    ]
+}
